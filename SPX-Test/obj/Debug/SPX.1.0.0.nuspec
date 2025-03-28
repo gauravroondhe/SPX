@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SPX</id>
+    <version>1.0.0</version>
+    <authors>SPX</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="e465255c00dd154cd82b04c3904ae6f0416a64f7" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Projects\SPX\SPX-Test\bin\Debug\net8.0\SPX.runtimeconfig.json" target="lib\net8.0\SPX.runtimeconfig.json" />
+    <file src="D:\Projects\SPX\SPX-Test\bin\Debug\net8.0\SPX.dll" target="lib\net8.0\SPX.dll" />
+  </files>
+</package>

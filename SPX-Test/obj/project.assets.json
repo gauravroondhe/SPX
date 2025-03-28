@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\SPX-Test\\SPX-Test\\SPX.csproj",
+      "projectUniqueName": "D:\\Projects\\SPX\\SPX-Test\\SPX.csproj",
       "projectName": "SPX",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\SPX-Test\\SPX-Test\\SPX.csproj",
+      "projectPath": "D:\\Projects\\SPX\\SPX-Test\\SPX.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\SPX-Test\\SPX-Test\\obj\\",
+      "outputPath": "D:\\Projects\\SPX\\SPX-Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
