@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\SPX-Test\SPX-Test\bin\Debug\net8.0\SPX.exe
+C:\Users\HP\source\repos\SPX-Test\SPX-Test\bin\Debug\net8.0\SPX.deps.json
+C:\Users\HP\source\repos\SPX-Test\SPX-Test\bin\Debug\net8.0\SPX.runtimeconfig.json
+C:\Users\HP\source\repos\SPX-Test\SPX-Test\bin\Debug\net8.0\SPX.dll
+C:\Users\HP\source\repos\SPX-Test\SPX-Test\bin\Debug\net8.0\SPX.pdb
+C:\Users\HP\source\repos\SPX-Test\SPX-Test\obj\Debug\net8.0\SPX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\SPX-Test\SPX-Test\obj\Debug\net8.0\SPX.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SPX-Test\SPX-Test\obj\Debug\net8.0\SPX.AssemblyInfo.cs
+C:\Users\HP\source\repos\SPX-Test\SPX-Test\obj\Debug\net8.0\SPX.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SPX-Test\SPX-Test\obj\Debug\net8.0\SPX.dll
+C:\Users\HP\source\repos\SPX-Test\SPX-Test\obj\Debug\net8.0\refint\SPX.dll
+C:\Users\HP\source\repos\SPX-Test\SPX-Test\obj\Debug\net8.0\SPX.pdb
+C:\Users\HP\source\repos\SPX-Test\SPX-Test\obj\Debug\net8.0\SPX.genruntimeconfig.cache
+C:\Users\HP\source\repos\SPX-Test\SPX-Test\obj\Debug\net8.0\ref\SPX.dll
+C:\Users\HP\source\repos\SPX-Test\SPX-Test\bin\Debug\net8.0\Input.txt
